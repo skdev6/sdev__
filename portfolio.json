@@ -1,5 +1,5 @@
 {
-	"portfolioCat":["html", "wordpress", "react Js", "animation"],
+	"portfolioCat":["front-end", "wordpress", "react Js", "animation"],
 	"portfolios":[
 		{
 			"title":"Yuze",
@@ -7,7 +7,7 @@
 			"link":"https://themecapital.net/portfolio/Yuze/",
 			"img":"https://skdevbd.themecapital.net/cdn/img/yuze.jpg",
 			"bg":"#82d791",
-			"cat":["html", "wordpress", "react Js"]
+			"cat":["front-end", "animation"]
 		},
 		{
 			"title":"ESKOR",
@@ -15,7 +15,7 @@
 			"link":"https://themecapital.net/portfolio/ESKOR/",
 			"img":"https://skdevbd.themecapital.net/cdn/img/ESKOR.jpg",
 			"bg":"#ffd100",
-			"cat":["html", "css", "javascript"]
+			"cat":["front-end", "animation"]
 		},
 		{
 			"title":"Roslane",
@@ -23,15 +23,15 @@
 			"link":"https://themecapital.net/portfolio/Roslane/",
 			"img":"https://skdevbd.themecapital.net/cdn/img/Roslane.jpg",
 			"bg":"#79664b",
-			"cat":["html", "css", "javascript"]
+			"cat":["front-end", "animation"]
 		},
 		{
-			"title":"Yuze",
-			"des":"",
-			"link":"https://themecapital.net/portfolio/Yuze/",
-			"img":"https://skdevbd.themecapital.net/cdn/img/yuze.jpg",
-			"bg":"#ffd414",
-			"cat":["html", "css", "javascript"]
+			"title":"Newlauncher",
+			"des":"New Launch Properties",
+			"link":"https://themecapital.net/portfolio/newlauncher/",
+			"img":"https://skdevbd.themecapital.net/cdn/img/newlauncher.jpg",
+			"bg":"#752A86",
+			"cat":["front-end"]
 		},
 		{
 			"title":"Yuze",
