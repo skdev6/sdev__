@@ -1,0 +1,68 @@
+{
+	"portfolioCat":["html", "wordpress", "react Js", "animation"],
+	"portfolios":[
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		},
+		{
+			"title":"Yuze",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Yuze/",
+			"img":"skdevbd.themecapital.net/cdn/img/yuze.jpg",
+			"cat":["html", "css", "javascript"]
+		}
+	]
+} 
