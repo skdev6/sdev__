@@ -34,35 +34,35 @@
 			"cat":["front-end"]
 		},
 		{
-			"title":"Yuze",
+			"title":"Diamonds",
 			"des":"",
-			"link":"https://themecapital.net/portfolio/Yuze/",
-			"img":"https://skdevbd.themecapital.net/cdn/img/yuze.jpg",
-			"bg":"#ffd414",
+			"link":"https://themecapital.net/portfolio/diamonds/",
+			"img":"https://skdevbd.themecapital.net/cdn/img/diamonds.jpg",
+			"bg":"#F0DE7C",
+			"cat":["front-end", "animation"]
+		},
+		{
+			"title":"Dash emailv",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/Dash-emailv/",
+			"img":"https://skdevbd.themecapital.net/cdn/img/Dash-emailv.jpg",
+			"bg":"#5C5AE2",
+			"cat":["front-end", "animation"]
+		},
+		{
+			"title":"Konpare",
+			"des":"",
+			"link":"https://themecapital.net/portfolio/konpare/",
+			"img":"https://skdevbd.themecapital.net/cdn/img/konpare.jpg",
+			"bg":"#FFD703",
 			"cat":["html", "css", "javascript"]
 		},
 		{
-			"title":"Yuze",
+			"title":"doorbell",
 			"des":"",
-			"link":"https://themecapital.net/portfolio/Yuze/",
-			"img":"https://skdevbd.themecapital.net/cdn/img/yuze.jpg",
-			"bg":"#ffd414",
-			"cat":["html", "css", "javascript"]
-		},
-		{
-			"title":"Yuze",
-			"des":"",
-			"link":"https://themecapital.net/portfolio/Yuze/",
-			"img":"https://skdevbd.themecapital.net/cdn/img/yuze.jpg",
-			"bg":"#ffd414",
-			"cat":["html", "css", "javascript"]
-		},
-		{
-			"title":"Yuze",
-			"des":"",
-			"link":"https://themecapital.net/portfolio/Yuze/",
-			"img":"https://skdevbd.themecapital.net/cdn/img/yuze.jpg",
-			"bg":"#ffd414",
+			"link":"https://themecapital.net/portfolio/doorbell/",
+			"img":"https://skdevbd.themecapital.net/cdn/img/doorbell.jpg",
+			"bg":"#4E2FD2",
 			"cat":["html", "css", "javascript"]
 		},
 		{
